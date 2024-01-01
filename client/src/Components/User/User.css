@@ -1,0 +1,9 @@
+  .User{
+    margin: 10px;
+    padding: 10px;
+  }
+
+  .addUser{
+    display: flex;
+    justify-content: end;
+  }
